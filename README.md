@@ -1,4 +1,5 @@
 # clashFront
+![alt text](title.png)
 
 clashFront is a C++ game that can be played entirely from the terminal. It's an academic project made for "Nautilus Academy".
 
